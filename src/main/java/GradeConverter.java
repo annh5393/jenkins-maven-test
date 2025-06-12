@@ -1,4 +1,4 @@
-
+//abcd
 public class GradeConverter {
     public String convert(int score)
     {
@@ -17,5 +17,5 @@ public class GradeConverter {
         }
     }
 
-
+abcd
 }

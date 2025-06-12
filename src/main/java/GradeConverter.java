@@ -16,6 +16,4 @@ public class GradeConverter {
             return "Invalid";
         }
     }
-
-abcd
 }
